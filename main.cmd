@@ -1,0 +1,1 @@
+conda activate CNN & python main.py
